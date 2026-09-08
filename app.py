@@ -12,7 +12,7 @@ client = OpenAI(
     api_key=st.secrets["OPENAI_API_KEY"]
 )
 
-st.title("Cybertrack - Fas 1")
+st.title("Cybertrack - Fas 2 - Förberedelse")
 st.subheader("Intervjusimulator")
 
 st.write(
